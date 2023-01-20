@@ -1,0 +1,31 @@
+Console.WriteLine ('b');
+Console.WriteLine (123);
+
+Console.WriteLine (12.30m);
+
+Console.WriteLine (true);
+Console.WriteLine (false);
+
+
+Console.WriteLine("123");
+Console.WriteLine(123);
+
+Console.WriteLine("true");
+Console.WriteLine(true);
+
+//Основни типове данни 
+//string - за думи, фрази или всякакви буквено-цифрови данни за представяне, а не за изчисление
+//char - за единичен буквено-цифров знак
+//int - за цяло число
+//decimal- за число  с десетична запетая
+//bool - за истинска/фалшива стойност
+
+// Деклариране на променлива
+
+string firstName;
+string thisIsCamelCase;
+
+char userOption;
+int gameScore;
+decimal particlesPerMillion;
+bool processedCustomer;
