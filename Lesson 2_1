@@ -1,0 +1,15 @@
+
+// Деклариране на променлива и присвояване на стойност
+string firstName;
+firstName = "Bob";
+Console.WriteLine (firstName);
+firstName = "Beth";
+Console.WriteLine (firstName);
+firstName = "Conrad";
+Console.WriteLine (firstName);
+firstName = "Grant";
+Console.WriteLine (firstName);
+
+
+
+// "Bob" = firstName; - ERROR!
