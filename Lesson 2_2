@@ -1,0 +1,15 @@
+string name ="Bob";
+int messages =3;
+decimal temperature = 34.4m;
+
+//променлива от тип string за съхранение на името "Bob".
+//променлива от тип int за съхраняване на броя съобщения.
+//променлива от тип decimal за съхраняване на температурата.
+
+Console.Write ("Hello, ");
+Console.Write (name);
+Console.Write ("! You have ");
+Console.Write (messages);
+Console.Write ("messages in your inbox. The temperature is");
+Console.Write (temperature);
+Console.Write (" celsius.");
