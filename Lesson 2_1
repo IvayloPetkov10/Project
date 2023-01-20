@@ -13,3 +13,8 @@ Console.WriteLine (firstName);
 
 
 // "Bob" = firstName; - ERROR!
+
+
+//Инициализиране на променлива
+//string firstName    =   "Bob";
+//Console.WriteLine(firstName);
