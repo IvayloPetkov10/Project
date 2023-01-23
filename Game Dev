@@ -1,0 +1,21 @@
+using UnityEngine;
+
+public class PlayerMovement : MonoBehaviour {
+
+    public Regidbody rb;
+
+    //use this for initializations
+
+    void Start ()
+    {
+        rb.AddForce(0, 200, 500);
+        Debug.Log ("Hello.World!");
+
+    }
+
+    //update is called once per frame 
+    void Update () {
+
+
+    }
+}
