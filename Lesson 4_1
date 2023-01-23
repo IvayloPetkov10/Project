@@ -1,0 +1,3 @@
+string Value1="a";
+string Value2= "A";
+Console.WriteLine (Value1.Trim().ToLower()==Value2.Trim().ToLower())
