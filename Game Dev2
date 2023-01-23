@@ -1,0 +1,14 @@
+using UnityEngine;
+
+public class PlayerMovement : MonoBehaviour {
+
+    //This is a reference  to RigidBody component called "rb"
+
+    public Regidbody rb;
+
+    //We marked this is "Fixed" update because
+    // we are using it to mess with psysics.
+
+    
+    void FixedUpdate () 
+    {
